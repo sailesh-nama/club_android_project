@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question">Is (2+5) = 8</string>
+    <string name="tr">True</string>
+    <string name="fl">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+</resources>
